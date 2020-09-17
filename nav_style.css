@@ -12,19 +12,20 @@
   font-size: 20px;
   color: gray;
   float: right;
+  background-color: #808080;
 
 }
 
 #topNav li a {
-
+color: #dddddd;
 text-decoration: none;
 }
 
-a:hover {
-  color: teal;
+#topNav a:hover {
+  color: white;
 
 }
 
 #topNav li:hover {
-   background-color: gray;
+   background-color: #a9a9a9;
 }
